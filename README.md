@@ -84,13 +84,17 @@ _Los sistemas cloud deben controlar y optimizar sus recursos dotándose de capac
 
 ### IA y Machine Learning
 
-* **IA.**
-_A grandes rasgos, es cuando las máquinas o los sistemas informáticos se comportan de una manera que simula la inteligencia humana._
+* **IA**
+
+
+_En escencia cuando las máquinas o los sistemas informáticos se comportan de una manera que simula la inteligencia humana._
 
 * **Machine Learning**
+
 _El machine learning permite a los ordenadores aprender sin necesidad de haber sido explícitamente programados para ello. Son los avances en este campo, especialmente en el deep learning, los que han producido la reciente proliferación de la IA. El machine learning funciona entrenando a los sistemas informáticos a utilizar algoritmos para detectar patrones en los datos y posteriormente actuar de forma predictiva._
 
 * **Deep Learning**
+
 _El deep learning es un tipo de machine learning inspirado en cómo las redes neuronales del cerebro humano procesan la información. En estos sistemas, cada capa de la red neuronal transforma los datos que recibe en una representación más compleja._
 
 
