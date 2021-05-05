@@ -103,7 +103,11 @@ _El deep learning es un tipo de machine learning inspirado en cómo las redes ne
 
 Mas información y ayuda para mejor comprension sobre la Nube
 
-[¿Qué es realmente el Cloud?](https://www.youtube.com/watch?v=1rTs-tSqqv8)
+**[¿Qué es realmente el Cloud?](https://www.youtube.com/watch?v=1rTs-tSqqv8)
+
+**[¿Qué es la inteligencia artificial?](https://www.youtube.com/watch?v=NSf3o-wxtQ0)
+
+**[El Big Data en 3 minutos](https://www.youtube.com/watch?v=w4vsFKMO7XA)
 
 
 ### Participantes ✒️
